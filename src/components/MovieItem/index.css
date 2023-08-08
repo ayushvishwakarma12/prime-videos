@@ -1,0 +1,34 @@
+.thumbnail-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.thumbnail {
+  width: 300px;
+}
+
+.popup-content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 500px;
+  width: 750px;
+  border-radius: 20px;
+}
+
+.responsive-container {
+  align-self: center;
+}
+
+.button {
+  background-color: transparent;
+  border: none;
+  align-self: flex-end;
+  cursor: pointer;
+}
+
+.video-content-container {
+  display: flex;
+  flex-direction: column;
+}
